@@ -5,6 +5,12 @@ mode: Rule
 log-level: info
 external-controller: :9090
 proxies:
+  - {name: DE德国(YouTube阿伟科技)_1, server: cs1.bbcloud.life, port: 41406, type: vmess, uuid: d0731cf1-db62-478d-aa20-3b73b98a9c6f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: cs1.bbcloud.life}, udp: true}
+  - {name: GB英国(youtube阿伟科技)_1, server: 3.0.181.193, port: 9000, type: vmess, uuid: 5d444316-8fee-413e-b2de-b39cbd1a272b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: HK香港(youtube阿伟科技)_3, server: iepl-dedi-server-shenzhen.bkcloud.ml, port: 10004, type: ss, cipher: chacha20-ietf-poly1305, password: c20dc0f1-3d04-4d53-b33c-6f53bd94fa8b, udp: true}
+  - {name: HK香港(youtube阿伟科技)_6, server: 3.0.181.193, port: 9001, type: vmess, uuid: 3cd4cfeb-b288-4239-b362-aa7a92dcfd79, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
+  - {name: US美国(YouTube阿伟科技)_13, server: vceu3.718398.xyz, port: 80, type: vmess, uuid: a6dfb50f-75bb-48e0-b56a-1edeb62b5a49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /cctv06, ws-headers: {Host: vceu3.718398.xyz}, udp: true}
+  - {name: VN越南(YouTube阿伟科技)_5, server: 103.178.228.136, port: 80, type: vmess, uuid: 3deb7492-182d-4f14-aaeb-923126414cdc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /datare, ws-headers: {Host: 103.178.228.136}, udp: true}
   - {name: YouTube梦歌|华南联通_1, server: 42.225.20.24, port: 10001, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: YouTube梦歌|华南联通_6, server: cs1.bbcloud.life, port: 35459, type: vmess, uuid: 026056ab-a315-4eb9-babf-f95d473e621c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /, ws-headers: {Host: cs1.bbcloud.life}, udp: true}
   - {name: YouTube梦歌|华南联通_8, server: cf.bakapie.cf, port: 2096, type: vmess, uuid: b4066c72-3e5b-41d0-90da-41ba2e6d7457, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /index, ws-headers: {Host: 3464a64e.adorc.ml}, udp: true}
@@ -55,6 +61,12 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - 🎯 全球直连
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -104,6 +116,12 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -154,6 +172,12 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -216,6 +240,12 @@ proxy-groups:
       - 🔰 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -264,6 +294,8 @@ proxy-groups:
     type: select
     proxies:
       - 🎯 全球直连
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
       - YouTube梦歌|广港IEPL_15
       - YouTube梦歌|广港IEPL_25
       - YouTube梦歌|广港IEPL_44
@@ -296,6 +328,12 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🔰 节点选择
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -345,6 +383,12 @@ proxy-groups:
     proxies:
       - 🔰 节点选择
       - 🎯 全球直连
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -395,6 +439,12 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
@@ -454,6 +504,12 @@ proxy-groups:
       - 🔰 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - DE德国(YouTube阿伟科技)_1
+      - GB英国(youtube阿伟科技)_1
+      - HK香港(youtube阿伟科技)_3
+      - HK香港(youtube阿伟科技)_6
+      - US美国(YouTube阿伟科技)_13
+      - VN越南(YouTube阿伟科技)_5
       - YouTube梦歌|华南联通_1
       - YouTube梦歌|华南联通_6
       - YouTube梦歌|华南联通_8
