@@ -29,8 +29,7 @@ proxies:
   - {name: _746 |17.40Mb, server: 43.154.34.49, port: 23183, type: vmess, uuid: b402a4af-285a-463e-c3a7-53f91efdec78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: _462, server: 155.248.193.254, port: 31853, type: trojan, password: jKRJgS7uvI, skip-cert-verify: true, udp: true}
   - {name: Relay_🇺🇸US-🇺🇸US_435, server: fr-ls03.nb1.fr, port: 64443, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /clientarea, ws-headers: {Host: fr-ls03.nb1.fr}, udp: true}
-  - {name: US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1, server: phxv001.jd0001.top, port: 44302, type: trojan, password: 4d111af8-5078-37e0-a583-34155f60b32c, sni: phxv001.jd0001.top, skip-cert-verify: true, udp: true}
+  - {name: US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1, server: phxv001.jd0001.top, port: 44302, type: trojan, password: 4d111af8-5078-37e0-a583-34155f60b32c, sni: phxv001.jd0001.top, skip-cert-verify: true, udp: true}
   - {name: 「SCP」HK-CF, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /shirker, ws-headers: {Host: hk-2.sharecentre.online}, udp: true}
   - {name: Relay_🇺🇸US-🇷🇺RU_1330, server: se.walidfree16.workers.dev, port: 443, type: vmess, uuid: 66437555-d282-40a9-a25b-d218cc6041ae, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /se1.v2-ray.us/vmess, ws-headers: {Host: se.walidfree16.workers.dev}, udp: true}
   - {name: US_1408 |13.49Mb, server: 193.123.95.170, port: 14471, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /ws-path, ws-headers: {Host: 193.123.95.170}, udp: true}
@@ -92,8 +91,7 @@ _1, server: phxv001.jd0001.top, port: 44302, type: trojan, password: 4d111af8-50
   - {name: SG_814, server: 103.83.159.164, port: 443, type: vmess, uuid: 5f9d99b4-384b-4464-96cc-1906c57abe5d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /vmess, ws-headers: {Host: 103.83.159.164}, udp: true}
   - {name: CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4, server: 168.138.68.36, port: 14252, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /ws-path, ws-headers: {Host: 168.138.68.36}, udp: true}
   - {name: SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2, server: 158.101.229.162, port: 15227, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /ws-path, ws-headers: {Host: 158.101.229.162}, udp: true}
-  - {name: CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3, server: hnm.xiaohouzi.club, port: 27094, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: hnm.xiaohouzi.club, skip-cert-verify: true, udp: true}
+  - {name: CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3, server: hnm.xiaohouzi.club, port: 27094, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: hnm.xiaohouzi.club, skip-cert-verify: true, udp: true}
   - {name: Relay_🇺🇸US-🇺🇸US_1353, server: 108-137-18-26.ipv4.rush.ml, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, sni: 108-137-18-26.ipv4.rush.ml, skip-cert-verify: true, udp: true}
   - {name: US_1342, server: 108.137.18.26, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, skip-cert-verify: true, udp: true}
   - {name: _965, server: 43.154.34.49, port: 23183, type: vmess, uuid: b402a4af-285a-463e-c3a7-53f91efdec78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -127,8 +125,7 @@ proxy-groups:
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -190,12 +187,11 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
-      - _965
-  - name: ♻️ 自动选择
+      - _965  
+   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
@@ -219,19 +215,18 @@ _3
       - _796 |10.24Mb
       - YouTube梦歌|江南电信_60
       - Relay_🇺🇸US-🇩🇪DE_1338
-      - TW_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
+      - TW_欢迎订阅小閑哥频道❤️telegram群组
       - Relay_-🇺🇸US_776 |10.07Mb
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
       - TW_819
       - _日本_2
-      - BZ_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
+      - BZ_欢迎订阅小閑哥频道❤️telegram群组
       - IE_579
       - Relay_🇮🇪IE-🇮🇪IE_578
       - _444
@@ -245,20 +240,20 @@ _1
       - US_465
       - _970
       - TW_207
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
+      - US_欢迎订阅小閑哥频道❤️telegram群组
       - _日本
       - US_124 |19.91Mb
       - Relay_🇨🇦CA-🇺🇸US_16
       - SG_199
       - TW_1416
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_6
+      - US_欢迎订阅小閑哥频道❤️telegram群组
       - JP_1227
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_17
+      - US_欢迎订阅小閑哥频道❤️telegram群组
       - Relay_-🇺🇸US_432
       - JP_1231
       - 求推广
       - JP_1003 |23.91Mb
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_18
+      - US_欢迎订阅小閑哥频道❤️telegram群组
       - Relay_🇯🇵JP-🇺🇸US_594
       - NO_177
       - Relay_🇩🇪DE-🇩🇪DE_510
@@ -274,21 +269,20 @@ _1
       - Relay_🇬🇧GB-🇬🇧GB_983 |14.05Mb
       - YouTube梦歌|广港IEPL_114
       - JP_599
-      - IT_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - SG_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-      - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
+      - IT_欢迎订阅小閑哥频道❤️telegram群组：
+      - SG_欢迎订阅小閑哥频道❤️telegram群组：
+      - CA_欢迎订阅小閑哥频道❤️telegram群组：
       - Relay_🇩🇪DE-🇩🇪DE_509
       - Relay_🇨🇦CA-🇨🇦CA_36
       - _780 |12.36Mb
-      - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
+      - SA_欢迎订阅小閑哥频道❤️telegram群组：
       - US_163
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
-      - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CA_欢迎订阅小閑哥频道❤️telegram群组：
+      - SA_欢迎订阅小閑哥频道❤️telegram群组：
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -322,8 +316,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -385,8 +378,7 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -432,8 +424,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -495,8 +486,7 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -537,8 +527,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -600,8 +589,7 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -634,8 +622,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -697,8 +684,7 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -732,8 +718,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -795,8 +780,7 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -839,8 +823,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -902,8 +885,7 @@ _1
       - SG_814
       - CA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_4
       - SA_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_2
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
