@@ -27,8 +27,7 @@ proxies:
   - {name: _746 |17.40Mb, server: 43.154.34.49, port: 23183, type: vmess, uuid: b402a4af-285a-463e-c3a7-53f91efdec78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: _462, server: 155.248.193.254, port: 31853, type: trojan, password: jKRJgS7uvI, skip-cert-verify: true, udp: true}
   - {name: Relay_🇺🇸US-🇺🇸US_435, server: fr-ls03.nb1.fr, port: 64443, type: vmess, uuid: cb7001c7-e495-41ac-b942-f25f60523414, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /clientarea, ws-headers: {Host: fr-ls03.nb1.fr}, udp: true}
-  - {name: US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1, server: phxv001.jd0001.top, port: 44302, type: trojan, password: 4d111af8-5078-37e0-a583-34155f60b32c, sni: phxv001.jd0001.top, skip-cert-verify: true, udp: true}
+  - {name: US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1, server: phxv001.jd0001.top, port: 44302, type: trojan, password: 4d111af8-5078-37e0-a583-34155f60b32c, sni: phxv001.jd0001.top, skip-cert-verify: true, udp: true}
   - {name: 「SCP」HK-CF, server: cf-lt.sharecentre.online, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /shirker, ws-headers: {Host: hk-2.sharecentre.online}, udp: true}
   - {name: Relay_🇺🇸US-🇷🇺RU_1330, server: se.walidfree16.workers.dev, port: 443, type: vmess, uuid: 66437555-d282-40a9-a25b-d218cc6041ae, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /se1.v2-ray.us/vmess, ws-headers: {Host: se.walidfree16.workers.dev}, udp: true}
   - {name: US_1408 |13.49Mb, server: 193.123.95.170, port: 14471, type: vmess, uuid: 52768552-c2b2-4460-89f1-e740cc145b99, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, network: ws, ws-path: /ws-path, ws-headers: {Host: 193.123.95.170}, udp: true}
@@ -82,8 +81,7 @@ _1, server: phxv001.jd0001.top, port: 44302, type: trojan, password: 4d111af8-50
   - {name: YouTube梦歌|广港IEPL_25, server: hy.guanguan.club, port: 11410, type: vmess, uuid: 5707bceb-1da9-41e1-bd03-1bb3d1c28a2c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /nba, ws-headers: {Host: sg1.oraclec.pp.ua}, udp: true}
   - {name: JP_1005 |23.88Mb, server: 172.104.114.137, port: 7303, type: vmess, uuid: 9c52776b-4b01-4ae6-9f7d-25cd4725e13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
   - {name: SG_814, server: 103.83.159.164, port: 443, type: vmess, uuid: 5f9d99b4-384b-4464-96cc-1906c57abe5d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: true, network: ws, ws-path: /vmess, ws-headers: {Host: 103.83.159.164}, udp: true}
-  - {name: CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3, server: hnm.xiaohouzi.club, port: 27094, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: hnm.xiaohouzi.club, skip-cert-verify: true, udp: true}
+  - {name: CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3, server: hnm.xiaohouzi.club, port: 27094, type: trojan, password: 21e10785-99c6-316e-a184-a03384ee06e5, sni: hnm.xiaohouzi.club, skip-cert-verify: true, udp: true}
   - {name: Relay_🇺🇸US-🇺🇸US_1353, server: 108-137-18-26.ipv4.rush.ml, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, sni: 108-137-18-26.ipv4.rush.ml, skip-cert-verify: true, udp: true}
   - {name: US_1342, server: 108.137.18.26, port: 8443, type: trojan, password: cf4295378e209e70d12c5bdd017144dfd1c772d3, skip-cert-verify: true, udp: true}
   - {name: _965, server: 43.154.34.49, port: 23183, type: vmess, uuid: b402a4af-285a-463e-c3a7-53f91efdec78, alterId: 0, cipher: auto, tls: false, skip-cert-verify: true, udp: true}
@@ -650,8 +648,7 @@ proxy-groups:
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -705,8 +702,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -1272,8 +1268,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -1327,8 +1322,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -1895,8 +1889,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -1950,8 +1943,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -2585,8 +2577,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -3160,8 +3151,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -3215,8 +3205,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -3782,8 +3771,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -3837,8 +3825,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -4405,8 +4392,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -4460,8 +4446,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
@@ -5037,8 +5022,7 @@ _3
       - _746 |17.40Mb
       - _462
       - Relay_🇺🇸US-🇺🇸US_435
-      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_1
+      - US_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_1
       - 「SCP」HK-CF
       - Relay_🇺🇸US-🇷🇺RU_1330
       - US_1408 |13.49Mb
@@ -5092,8 +5076,7 @@ _1
       - YouTube梦歌|广港IEPL_25
       - JP_1005 |23.88Mb
       - SG_814
-      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88
-_3
+      - CN_欢迎订阅小閑哥频道❤️telegram群组：https://t.me/xiaoxiange88_3
       - Relay_🇺🇸US-🇺🇸US_1353
       - US_1342
       - _965
